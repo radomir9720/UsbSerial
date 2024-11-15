@@ -12,6 +12,7 @@ public class CH34xIds
 
     private static final long[] ch34xDevices = createTable(
             createDevice(0x4348, 0x5523),
+            createDevice(0x1a86, 0x7522),
             createDevice(0x1a86, 0x7523),
             createDevice(0x1a86, 0x5523),
             createDevice(0x1a86, 0x0445)
